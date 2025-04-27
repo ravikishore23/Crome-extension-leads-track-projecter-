@@ -28,8 +28,8 @@ Store leads manually by entering a URL, grab the **current tab** instantly, and 
 lead-tracker/
 │
 ├── index.html       # Main popup layout
-├── main.js          # Extension logic
-├── style.css        # Popup styling
+├── index.js          # Extension logic
+├── index.css        # Popup styling
 ├── manifest.json    # Chrome extension config
 └── screenshots/     # Screenshots for documentation
 ```
@@ -42,11 +42,17 @@ lead-tracker/
 
 | Popup View | Current Tab Save |
 |:-----------|:-----------------|
+## open extension
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(1).png) 
+## leads tracker UI
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(2).png) 
+## give input url
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(3).png) 
+## save input url using save button
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(4).png) 
+## save current tab url using tab button
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(5).png) 
+## delete all saved url using delete button
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(6).png) 
 
 ---
