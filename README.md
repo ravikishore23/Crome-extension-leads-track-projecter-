@@ -38,10 +38,6 @@ lead-tracker/
 
 ## 📸 Screenshots
 
-> *(Add your screenshots to the `screenshots/` folder and update the links here)*
-
-| Popup View | Current Tab Save |
-|:-----------|:-----------------|
 ## open extension
 | ![Popup Screenshot](https://github.com/ravikishore23/Crome-extension-leads-track-projecter-/blob/main/assets/Screenshot%20(1).png) 
 ## leads tracker UI
